@@ -1,14 +1,16 @@
-### 開発環境
+## github デプロイ先（仮）
+https://tatsuki-sawada.github.io/mobile-wow-page/
+
+## 開発環境
 ・windows11
 ・vscode 
 
---------------------------------------------------------
--- 以下テンプレート なんとなく残している
+-------------------------------------------------------- 
+以下テンプレート なんとなく残している
 todo del
 ---------------------------------------------------------
 
 # React + TypeScript + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
