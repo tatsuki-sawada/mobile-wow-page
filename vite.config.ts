@@ -15,7 +15,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'dist', // デフォルト
+    outDir: 'docs', // github pages の読み取り可なのフォルダ名
     sourcemap: false, // 本番ビルドでソースマップ無効化
     minify: 'esbuild', // 高速なminify
   },
