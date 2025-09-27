@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+# dist // dist配下を静的ホスティング対象としてプッシュすル必要がある
 dist-ssr
 *.local
 
